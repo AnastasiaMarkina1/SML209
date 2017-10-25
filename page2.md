@@ -1,6 +1,6 @@
 <ul class="breadcrumb">
   <li><a href="home.html">Home</a></li>
-  <li>Page 2<li>
+  <li>Page 2</li>
 </ul>
 
-<h1> Page 2 </h1>
+<h2>page2</h2>
