@@ -6,3 +6,4 @@
 <p>Welcome etc</p>
 <p>
   <img src="img/spainish.jpg"/>
+</p>
