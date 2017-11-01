@@ -5,5 +5,5 @@
 <h1>Project Home</h1>
 <p>Welcome etc</p>
 <p>
-  <img src="img/spainish flag.jpg"/>
+  <img src="img/spainish flag.jpg"style="width:50%;"/>
 </p>
