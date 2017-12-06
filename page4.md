@@ -4,5 +4,5 @@
 </ul>
 <h2>Mini-Assignment</h2>
 <p>Exercise</p>
-<p>Listen to the first two minutes of the video, pay attention to vocabulary that is being said. Choose the correct spelling or meaning of the words in the quize.</p>  
+<p><font size="2">Listen to the first two minutes of the video, pay attention to vocabulary that is being said. Choose the correct spelling or meaning of the words in the quize</font></p>  
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gsF18lz5rOA" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
