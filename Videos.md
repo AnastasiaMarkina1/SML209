@@ -33,30 +33,50 @@
     </tr>
     <tr>
       <td>Hat</td>
-      <td>Jacket</td>
-      <td>Jumper</td>
-      <td>Scarf</td>
-      <td>Shoes</td>
-      <td>Shorts</td>
-      <td>Skirt</td>
-      <td>Socks</td>
-      <td>Sun Glasses</td>
-      <td>Trousers</td>
-      <td>T-Shirt</td>
-      <td>Underwear</td>
+      <td>El Sombrero</td>
     </tr>
     <tr>
-      <td>El Sombrero</td>
+      <td>Jacket</td>
       <td>La Chaqueta</td>
+    </tr>
+    <tr>
+      <td>Jumper</td>
       <td>El Saldador</td>
+    </tr>
+    <tr>
+      <td>Scarf</td>
       <td>El Peñuelo</td>
+    </tr>
+    <tr>
+      <td>Shoes</td>
       <td>Los Zapatos</td>
+    </tr>
+    <tr>
+      <td>Shorts</td>
       <td>Los Pantalones Cortos</td>
+    </tr>
+    <tr>
+      <td>Skirt</td>
       <td>La Falda</td>
+    </tr>
+    <tr>
+      <td>Socks</td>
       <td>Los Calcetines</td>
+    </tr>
+    <tr>
+      <td>Sun Glasses</td>
       <td>Los Gafas de Sol</td>
+    </tr>
+    <tr>
+      <td>Trousers</td>
       <td>Los PAntalones</td>
+    </tr>
+    <tr>
+      <td>T-Shirt</td>
       <td>La Camiseta</td>
+    </tr>
+    <tr>
+      <td>Underwear</td>
       <td>La Ropa Interior</td>
     </tr>
     </body>
