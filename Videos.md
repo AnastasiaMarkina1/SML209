@@ -21,8 +21,17 @@
     </tr>
     <tr>
       <td>Dress</td>
+      <td>El Vestido</td>
+    </tr>
+    <tr>
       <td>Glasses</td>
-      <td>Gloves</td>
+      <td>Los Gafas</td>
+    </tr>
+    <tr>
+     <td>Gloves</td>
+     <td>Los Guentes</td>
+    </tr>
+    <tr>
       <td>Hat</td>
       <td>Jacket</td>
       <td>Jumper</td>
@@ -37,9 +46,6 @@
       <td>Underwear</td>
     </tr>
     <tr>
-      <td>El Vestido</td>
-      <td>Los Gafas</td>
-      <td>Los Guentes</td>
       <td>El Sombrero</td>
       <td>La Chaqueta</td>
       <td>El Saldador</td>
