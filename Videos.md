@@ -69,7 +69,7 @@
     </tr>
     <tr>
       <td>Trousers</td>
-      <td>Los PAntalones</td>
+      <td>Los Pantalones</td>
     </tr>
     <tr>
       <td>T-Shirt</td>
