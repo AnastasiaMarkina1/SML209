@@ -8,13 +8,12 @@
 <head>
   <style>
     table,th,td{
-    font-size: 1rem;
     boarder:1px solid black;
     boarder-collapse:collapse;
     }
   </style>
   </head>
-  <body>
+  
   <table style="width:100%">
     <tr>
       <th>English</th>
