@@ -8,7 +8,7 @@
 <head>
   <style>
     table,th,td{
-    font-size="
+    font-size: 1rem;
     boarder:1px solid black;
     boarder-collapse:collapse;
     }
