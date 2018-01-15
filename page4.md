@@ -1,6 +1,6 @@
 <ul class="breadcrumb">
   <li><a href="https://anastasiamarkina1.github.io/SML209/">Home</a></li>
-  <li>Page 4</li>
+  <li>Help</li>
 </ul>
 <h2>Mini-Assignment 2</h2>
 <h3>Exercise</h3>
