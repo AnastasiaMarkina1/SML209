@@ -1,6 +1,6 @@
 <ul class="breadcrumb">
   <li><a href="home.html">Home</a></li>
-  <li>Videos</li>
+  <li>Clothing</li>
 </ul>
 
 <h2 style="text-align:center;">Clothing</h2>
