@@ -11,15 +11,32 @@
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
   </head>
   <body>
+    <style>
+      .navigation {
+        display: inline-block;
+        background-color: #fff;
+        padding: 10px 20px;
+        margin-right: 10px;
+        border-radius: 4px;
+        font-size: 18px;
+        text-decoration: none;
+      }
+      
+      .navigation:active {
+        outline: none;
+        transform: translateY(-0.1rem);
+        box-shadow: 0 0.5rem 1rem rgba(0,0,0,0.2);
+      }
+    </style>
     <section class="page-header">
       <div>
         <h1 class="project-name">{{ site.title | default: site.github.repository_name }}</h1>
         <h2 class="project-tagline">{{ site.description | default: site.github.project_tagline }}</h2>
         {% if site.github.is_project_page %}
-          <a href="index.html" class="">Home</a>
-          <a href="Basic Food" class="">Basic Food</a>
-          <a href="Clothing" class="">Clothing</a>
-          <a href="Help" class="">Help</a>
+          <a href="index.html" class="navigation">Home</a>
+          <a href="Basic Food" class="navigation">Basic Food</a>
+          <a href="Clothing" class="navigation">Clothing</a>
+          <a href="Help" class="navigation">Help</a>
         {% endif %}
         {% if site.show_downloads %}
           <a href="{{ site.github.zip_url }}" class="">Download .zip</a>
